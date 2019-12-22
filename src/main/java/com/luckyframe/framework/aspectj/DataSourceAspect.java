@@ -23,6 +23,7 @@ import com.luckyframe.framework.datasource.DynamicDataSourceContextHolder;
 @Order(1)
 @Component
 public class DataSourceAspect
+
 {
     protected Logger logger = LoggerFactory.getLogger(getClass());
 
